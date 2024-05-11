@@ -13,7 +13,7 @@ const Section6 = () => {
       }}
     >
       <div className="w-full h-full object-cover  flex items-center justify-center">
-        <div className="flex justify-center items-center  p-20  ">
+        <div className="flex justify-center items-center  py-20   ">
           <div className="text-white text-center flex flex-col justify-center items-center">
             <div className="pt-2  mx-auto  px-4">
               <h1 className="text-5xl font-bold  leading-snug max-sm:text-[20px] max-sm:text-nowrap max-md:text-3xl">

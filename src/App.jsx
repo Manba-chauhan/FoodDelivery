@@ -11,7 +11,7 @@ import Footer from './Components/Footer';
 
 const App = () => {
   return (
-    <div className='max-w-full max-h-full bg-white text-black'>
+    <div className='w-full h-full bg-white text-black'>
     <Header />
     <Section1 />
     <Section2 />

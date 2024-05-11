@@ -16,7 +16,8 @@ const Section1 = () => {
           <div className="text-white text-center">
             <h4 className="mb-2 font-medium">Food app</h4>
             <div className="pt-2 w-8/12 mx-auto  px-4">
-              <h1 className="text-5xl font-bold  leading-snug max-sm:text-base max-md:text-3xl">
+              <h1 className="text-5xl font-bold  leading-snug 
+              max-sm:text-base max-md:text-3xl">
                 Why stay hungry when you can order form Bella Onojie
               </h1>
             </div>

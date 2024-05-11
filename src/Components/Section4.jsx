@@ -13,11 +13,11 @@ const Section4 = () => {
         max-sm:items-center mx-auto "
       >
         <div
-          className="flex flex-col   justify-between 
+          className="flex flex-col   
         max-sm:flex-col  max-sm:justify-center max-sm:items-center "
         >
           <div className=" flex justify-center items-center max-md:flex-col max-sm:flex-col-reverse">
-            <div className="">
+            <div className="px-2">
               <Card
                 heading="Explore varieties"
                 subheading="Shop for your favorites
@@ -26,8 +26,8 @@ const Section4 = () => {
     and enjoy while doing it."
               />
             </div>
-            <div className=" flex-1 ">
-            <Image src={phone3} alt="phone1" className="w-full h-full " />
+            <div className="pl-12">
+            <Image src={phone3} alt="phone1" className="" />
             </div>
           </div>
         </div>
